@@ -1,2 +1,3 @@
-tabs: ['contracts/SimpleStorage.sol']
-
+tabs: ['contracts/HelloSolidity.sol']
+terminals: ['yarn install']
+run-button: truffle compile
